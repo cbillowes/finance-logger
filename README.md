@@ -23,3 +23,5 @@ tsc --init
 ```
 
 This will create a `tsconfig.json` file which is a configuration file for TypeScript.
+
+Now you only need to run `tsc -w` to compile all TypeScript files in the project.
