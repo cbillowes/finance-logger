@@ -15,3 +15,11 @@ tsc <filename>.ts -w
 # automatically compiles this to a file with the same name but with a .js extension
 # -w flag watches for changes and recompiles
 ```
+
+## Getting started
+
+```bash
+tsc --init
+```
+
+This will create a `tsconfig.json` file which is a configuration file for TypeScript.
