@@ -8,4 +8,9 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
 Code repository:
 https://github.com/iamshaunjp/typescript-tutorial
 
+Compile to JavaScript:
 
+```bash
+tsc <filename>.ts
+# automatically compiles this to a file with the same name but with a .js extension
+```
