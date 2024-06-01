@@ -11,6 +11,7 @@ https://github.com/iamshaunjp/typescript-tutorial
 Compile to JavaScript:
 
 ```bash
-tsc <filename>.ts
+tsc <filename>.ts -w
 # automatically compiles this to a file with the same name but with a .js extension
+# -w flag watches for changes and recompiles
 ```
