@@ -1,1 +1,4 @@
 public/app.js
+# requires webpack to avoid this
+public/classes/
+public/interfaces/
